@@ -1,0 +1,4 @@
+interface:
+  display_name: "M1 Object Model Builder"
+  short_description: "Build M1 object models from metadata and examples"
+  default_prompt: "Use $m1-object-model-builder to build an M1 object model for a business flow from metadata, source code, Swagger, and sample records."
