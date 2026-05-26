@@ -1,0 +1,22 @@
+{
+  "uploader": "github:13262727957-maker",
+  "uploaderName": "13262727957-maker",
+  "uploaderProvider": "github",
+  "provider": "github",
+  "version": "0.1.0",
+  "changelog": "初始化",
+  "scope": "global",
+  "category": "code-dev",
+  "versionHistory": [
+    {
+      "version": "0.1.0",
+      "changelog": "初始化",
+      "updatedAt": "2026-05-26T07:07:39.189Z"
+    }
+  ],
+  "createdAt": "2026-05-26T07:07:39.189Z",
+  "updatedAt": "2026-05-26T07:07:39.189Z",
+  "downloadCount": 0,
+  "recentDownloaders": [],
+  "usageHistory": {}
+}
