@@ -4,18 +4,18 @@
   "uploaderProvider": "github",
   "provider": "github",
   "version": "0.1.0",
-  "changelog": "初始化",
+  "changelog": "scc",
   "scope": "global",
-  "category": "code-dev",
+  "category": "other",
   "versionHistory": [
     {
       "version": "0.1.0",
-      "changelog": "初始化",
-      "updatedAt": "2026-05-26T07:07:39.189Z"
+      "changelog": "scc",
+      "updatedAt": "2026-05-26T07:35:01.518Z"
     }
   ],
   "createdAt": "2026-05-26T07:07:39.189Z",
-  "updatedAt": "2026-05-26T07:07:39.189Z",
+  "updatedAt": "2026-05-26T07:35:01.518Z",
   "downloadCount": 0,
   "recentDownloaders": [],
   "usageHistory": {}
