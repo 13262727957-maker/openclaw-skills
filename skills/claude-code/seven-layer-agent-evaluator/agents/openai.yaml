@@ -1,0 +1,4 @@
+interface:
+  display_name: "七层模型问答测评器"
+  short_description: "通过问答测试 Agent 对七层模型的理解。"
+  default_prompt: "进入七层模型问答测评模式：由用户连续提问，Agent 基于 M1-M7 模型回答，记录每轮使用的模型层、文件/工具/API/前端调用、耗时和安全决策，并在测试结束时生成自评报告。"
