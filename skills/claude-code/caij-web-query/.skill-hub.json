@@ -1,0 +1,22 @@
+{
+  "uploader": "login:xxy",
+  "uploaderName": "xxy",
+  "uploaderProvider": "login",
+  "provider": "login",
+  "version": "0.1.0",
+  "changelog": "测试",
+  "scope": "global",
+  "category": "other",
+  "versionHistory": [
+    {
+      "version": "0.1.0",
+      "changelog": "测试",
+      "updatedAt": "2026-06-01T06:21:13.611Z"
+    }
+  ],
+  "createdAt": "2026-06-01T06:21:13.611Z",
+  "updatedAt": "2026-06-01T06:21:13.611Z",
+  "downloadCount": 0,
+  "recentDownloaders": [],
+  "usageHistory": {}
+}
