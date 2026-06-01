@@ -1,4 +1,0 @@
-interface:
-  display_name: "M3 Rule Model Builder"
-  short_description: "Build executable M3 rule models."
-  default_prompt: "Build an M3 rule model for this business scenario using source code, Swagger, SQL Server metadata, runtime records, page evidence, and existing M1/M2/M4 models."
